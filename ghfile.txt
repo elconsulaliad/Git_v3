@@ -2,4 +2,8 @@ this is gh filde
 his is  second commit
 this commit to test ssh
 this is comparion lecture
+<<<<<<< Updated upstream
 this is stash lecture, change in main  ghfile.txt
+=======
+this is stash lecture, change in ghfile.txt
+>>>>>>> Stashed changes
